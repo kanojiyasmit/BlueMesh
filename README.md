@@ -3,7 +3,7 @@
 
 ## Overview
 
-This application is designed to interact with Bluetooth Low Energy (BLE) devices. It allows users to scan for nearby BLE devices, connect to them, and read various characteristics and services provided by these devices. The application is built using SwiftUI and follows the MVVM architecture.
+This application is designed to interact with Bluetooth Low Energy (BLE) devices. It allows users to scan for nearby BLE devices, connect to them, and read various characteristics and services provided by these devices.
 
 ## Features
 
